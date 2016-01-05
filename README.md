@@ -3,7 +3,7 @@
 This warmup is designed to give you a taste of what it might look like complete
 the `js-node-log-file-parsing` exercise using TDD (test driven development).
 
-Remember, tests help you break problems down into smaller, more digestible chunks and write cleaner code that is easier to reason about.
+Tests help you break problems down into smaller, more digestible chunks and write cleaner code that is easier to reason about.
 
 __REMEMBER:__ After code is written, it is _read_ over and over again by other developers and future you. It should read like a book!
 
