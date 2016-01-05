@@ -14,8 +14,9 @@ __NOTE:__ Aim to write functions that are no longer than 8-10 lines, including c
 __Ask yourself:__
 
 Does this function have one job? If not, is there code that can be extracted out into another, smaller function?
+
 When all tests are passing, uncomment the commented code in `log_parser.js` to
-confirm the below expected results.
+confirm the below expected results in your terminal.
 
 ```
 * What are all the dates the log covers?
